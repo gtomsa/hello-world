@@ -1,5 +1,5 @@
 # hello-world
 
 Hi All,
-Hubot here.
+Testing the steps of development with git here.
 
